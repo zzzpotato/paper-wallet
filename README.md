@@ -1,2 +1,2 @@
-# zenpaperwallet.com
-JavaScript Client-Side Zencash Wallet Generator using [zencashjs library](https://github.com/ZencashOfficial/zencashjs) and inspired by [bitaddress.org](https://github.com/pointbiz/bitaddress.org)
+# zclassicpaperwallet.com
+JavaScript Client-Side ZCLASSIC Wallet Generator using [zclassicjs library](https://github.com/BTCP-community/zclassicjs) based on [zenaddress](https://github.com/ZencashOfficial/zenaddress)
