@@ -160,7 +160,7 @@ class Single extends Component {
                             <li><a href="http://zclassicexplorer.com/">zclassicexplorer.com</a></li>
                         </ul>
                         <ul style={{listStyleType: 'none'}}>
-                            <li><a href="https://zcl-explorer.com/">zcl-explorer.com</a></li>
+                            <li><a href="https://zcl-explorer.com/insight/">zcl-explorer.com</a></li>
                         </ul>
                         <ul style={{listStyleType: 'none'}}>
                             <li><a href="http://explorer.zclmine.pro/">explorer.zclmine.pro</a></li>
