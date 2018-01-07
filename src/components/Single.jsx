@@ -157,10 +157,13 @@ class Single extends Component {
                             <b>Check your balance</b> by entering your ZCL address on one of these explorers :
                         </p>
                         <ul style={{listStyleType: 'none'}}>
-                            <li><a href="http://myzcl.com/">http://myzcl.com/</a></li>
+                            <li><a href="http://zclassicexplorer.com/">zclassicexplorer.com</a></li>
                         </ul>
                         <ul style={{listStyleType: 'none'}}>
-                            <li><a href="http://explorer.zclmine.pro/">http://explorer.zclmine.pro/</a></li>
+                            <li><a href="https://zcl-explorer.com/">zcl-explorer.com</a></li>
+                        </ul>
+                        <ul style={{listStyleType: 'none'}}>
+                            <li><a href="http://explorer.zclmine.pro/">explorer.zclmine.pro</a></li>
                         </ul>
                         <p>
                             <b>To spend your ZCL</b> you can download the <a href='https://github.com/ZclassicOfficial/Zclassic-swing-wallet-ui/releases'>Zclassic Swing Wallet</a> and import your private key to the p2p client wallet.

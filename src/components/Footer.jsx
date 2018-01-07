@@ -42,13 +42,16 @@ export default class Footer extends Component {
                                 </a>
                             </li>
                             <li>
-                                <a href="https://www.reddit.com/r/ZClassicOfficial/">
+                                <a href="https://www.reddit.com/r/ZClassic/">
                                     <img src={reddit} alt="reddit"/>
                                 </a>
                             </li>
                         </ul>
                     </Col>
                     <Col md={12}>
+                        <p className="footerCopyright">
+                            JavaScript Client-Side ZCLASSIC Wallet Generator
+                        </p>
                         <p className="footerCopyright">
                             Send me a memo zcH8yxWM5HHkrLKrt9HeTxWYPUqv1kzLYtX44BmkFSvWaixmfibB4U64P81RpDUUtGYuWRW1TPDb4uiB9nPtMfBrBcPv4w7
                         </p>
