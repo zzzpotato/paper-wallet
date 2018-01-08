@@ -64,10 +64,10 @@ export default class MainPanel extends Component {
 
     renderMainPanel() {
         return (
-            <Tabs id="nav" bsStyle="pills" justified
+            <Tabs id="nav" bsStyle="pills"
                 activeKey={this.state.activeNavTab}
                 onSelect={(key) => this.setState({activeNavTab: key})}
-                className = "zenTabsWrap"
+                className="zenTabsWrap"
             >
                 {this.getCategories().map((category) => (
                     <Tab key={category.id}
@@ -88,7 +88,7 @@ export default class MainPanel extends Component {
             <div id="body">
                 <Grid>
                     <Row>
-                        <Col sm={12}>
+                        <Col xs={12}>
                             {this.renderMainPanel()}
                         </Col>
                     </Row>
