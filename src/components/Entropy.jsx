@@ -125,7 +125,7 @@ class Entropy extends Component {
 
     render() {
         return (
-          <Col md={12} id="Entropy">
+          <Col xs={12} id="Entropy">
               <Row className="r3">
                   <Col>
                       <ProgressBar
