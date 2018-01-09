@@ -1,2 +1,4 @@
-# zclassicpaperwallet.com
-JavaScript Client-Side ZCLASSIC Wallet Generator using [zclassicjs library](https://github.com/BTCP-community/zclassicjs) based on [zenaddress](https://github.com/ZencashOfficial/zenaddress)
+# Not yet functional for BitcoinZ - Work in progress. 
+
+# paparwallet.btcz.rocks
+JavaScript Client-Side BitcoinZ Paper Wallet Generator using [zclassicjs library](https://github.com/BTCP-community/zclassicjs) based on [zenaddress](https://github.com/ZencashOfficial/zenaddress)
