@@ -112,7 +112,7 @@ class Single extends Component {
                                     value={this.state.addr}
                                 />
                             </div>
-                            <div className="zentabcode">
+                            <div className="btcztabcode">
                                 {this.state.addr}
                             </div>
                         </Col>
@@ -133,7 +133,7 @@ class Single extends Component {
                                         value={this.state.wif}
                                     />
                                 </div>
-                                <div className="zentabcode">{this.state.wif}</div>
+                                <div className="btcztabcode">{this.state.wif}</div>
                             </div>
                             <p>{this.getZpriv()}</p>
                         </Col>
@@ -145,28 +145,25 @@ class Single extends Component {
                 <Row className="r3">
                     <Col>
                         <p>
-                            <b>A Zclassic wallet</b> is as simple as a single pairing of a Zclassic address with its corresponding Zclassic private key. You can share your address to receive ZCL payments, however your private key is what allows you to unlock and manage your funds, keep it safe.
+                            <b>A BitcoinZ wallet</b> is as simple as a single pairing of a BitcoinZ address with its corresponding BitcoinZ private key. You can share your address to receive ZCL payments, however your private key is what allows you to unlock and manage your funds, keep it safe.
                         </p>
                         <p>
-                            <b>To safeguard this wallet</b> you must print or otherwise record the Zclassic address and private key. It is important to make a backup copy of the private key and store it in a safe location. This site does not have knowledge of your private key. If you leave/refresh the site or press the "Generate New Address" button then a new private key will be generated and the previously displayed private key will not be retrievable. Your Zclassic private key should be kept a secret. Whomever you share the private key with has access to spend all the ZCL associated with that address. If you print your wallet then store it in a zip lock bag to keep it safe from water. Treat a paper wallet like cash.
+                            <b>To safeguard this wallet</b> you must print or otherwise record the BitcoinZ address and private key. It is important to make a backup copy of the private key and store it in a safe location. This site does not have knowledge of your private key. If you leave/refresh the site or press the "Generate New Address" button then a new private key will be generated and the previously displayed private key will not be retrievable. Your BitcoinZ private key should be kept a secret. Whomever you share the private key with has access to spend all the ZCL associated with that address. If you print your wallet then store it in a zip lock bag to keep it safe from water. Treat a paper wallet like cash.
                         </p>
                         <p>
-                            <b>Add funds</b> to this wallet by instructing others to send ZCL to your ZCL address.
+                            <b>Add funds</b> to this wallet by instructing others to send BTCZ to your BTCZ address.
                         </p>
                         <p>
-                            <b>Check your balance</b> by entering your ZCL address on one of these explorers :
+                            <b>Check your balance</b> by entering your BTCZ address on one of these explorers :
                         </p>
                         <ul style={{listStyleType: 'none'}}>
-                            <li><a href="http://zclassicexplorer.com/">zclassicexplorer.com</a></li>
+                            <li><a href="https://explorer.btcz.rocks/">explorer.btcz.rocks</a></li>
                         </ul>
                         <ul style={{listStyleType: 'none'}}>
-                            <li><a href="https://zcl-explorer.com/insight/">zcl-explorer.com</a></li>
-                        </ul>
-                        <ul style={{listStyleType: 'none'}}>
-                            <li><a href="http://explorer.zclmine.pro/">explorer.zclmine.pro</a></li>
+                            <li><a href="https://btczexplorer.blockhub.info">btczexplorer.blockhub.info</a></li>
                         </ul>
                         <p>
-                            <b>To spend your ZCL</b> you can download the <a href='https://github.com/ZclassicOfficial/Zclassic-swing-wallet-ui/releases'>Zclassic Swing Wallet</a> and import your private key to the p2p client wallet.
+                            <b>To spend your BTCZ</b> you can download the <a href='https://github.com/bitcoinz-pod/bitcoinz-wallet/releases'>BitcoinZ Swing Wallet</a> and import your private key to the p2p client wallet.
                         </p>
                     </Col>
                 </Row>

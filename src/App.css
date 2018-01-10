@@ -42,7 +42,7 @@ a:hover{
     font-weight: bold;
 }
 #footer {
-    background-color: #F7F7F7;
+    background-color: #42ABCC;
     width: 100%;
 }
 #body {
@@ -61,7 +61,7 @@ a:hover{
   position: absolute;
   padding: 6px;
   border-radius: 6px;
-  background-color: #CF6C2E;
+  background-color: #42ABCC;
   z-index: 10;
 }
 .max-width {
@@ -69,15 +69,15 @@ a:hover{
     max-width: 100%;
 }
 
-.zenHeader .container-fluid{
+.btczHeader .container-fluid{
    padding: 0px 63px;
    box-shadow: 0 2px 4px -1px rgba(0, 0, 0, 0.1), 0 4px 5px 0 rgba(0, 0, 0, 0.08), 0 1px 10px 0 rgba(0, 0, 0, 0.12);
 }
-.zenHeader{
+.btczHeader{
     margin-bottom: 0px;
     width: 100%;
 }
-.zenHeader .navbar-text{
+.btczHeader .navbar-text{
     margin-left: 0px;
     margin-right: 0px;
     font-size: 13px;
@@ -87,17 +87,17 @@ a:hover{
 }
 /*<Navbar.Text>|</Navbar.Text>*/
 
-.zenHeader .nav li {
+.btczHeader .nav li {
   display: inline-block !important;
 }
-.zenHeader .nav li a{
+.btczHeader .nav li a{
     font-weight: 400;
     color: #1B2F59;
 }
-.zenHeader .nav li a:hover{
+.btczHeader .nav li a:hover{
     color: #1B2F59;
 }
-.zenHeader .navbar-brand{
+.btczHeader .navbar-brand{
     height: 65px;
 }
 .navbar-header {
@@ -123,39 +123,39 @@ a:hover{
     top: 0;
     width: 9999px;
 }
-.zenHeader .nav{
+.btczHeader .nav{
     padding: 6px 0px;
 }
 /*________________tab section css___________*/
 
-.zenTabsWrap{
+.btczTabsWrap{
     text-align: center;
     padding: 70px 0px;
 }
-.zenTabsWrap > ul > li{
+.btczTabsWrap > ul > li{
     display: inline-block;
     width: auto;
     padding-bottom: 10px;
 }
-.zenTabsWrap > ul > li > a:hover {
+.btczTabsWrap > ul > li > a:hover {
   color: #813100;
 }
-.zenTabs {
+.btczTabs {
     text-align: left;
 }
-.zenTabs .r3{
+.btczTabs .r3{
     margin: 15px auto auto auto;
 }
-.zenTabs ul{
+.btczTabs ul{
     list-style-type: none;
     padding: 0;
     margin: 0px;
     margin-bottom: 10px;
 }
-.zenTabsWrap > ul > li{
+.btczTabsWrap > ul > li{
     width: auto;
 }
-.zenTabsWrap > ul > li a{
+.btczTabsWrap > ul > li a{
     border-radius: 0;
     font-size: 16px;
     padding: 12px 0;
@@ -167,26 +167,26 @@ a:hover{
     color: #fff;
     font-weight: 500;
 }
-.zenTabsWrap .nav-justified > li + li a{
+.btczTabsWrap .nav-justified > li + li a{
     margin-left: 0px;
 }
 
-.zenTabsWrap .nav-pills > li.active > a,
-.zenTabsWrap .nav-pills > li.active > a:focus,
-.zenTabsWrap .nav-pills > li.active > a:hover {
+.btczTabsWrap .nav-pills > li.active > a,
+.btczTabsWrap .nav-pills > li.active > a:focus,
+.btczTabsWrap .nav-pills > li.active > a:hover {
     background-color: #FFFFFF;
     color: #813100;
 }
 
-.zenTabsWrap .nav-pills>li+li {
+.btczTabsWrap .nav-pills>li+li {
     /*margin-left: 0px !important;*/
 }
 
-.zenTabs > div {
+.btczTabs > div {
     padding-top: 20px;
 }
 
-.zenTabs {
+.btczTabs {
     box-shadow: 0px 0px 10px #CCC;
     background: #ededed;
     padding: 24px 20px 14px 20px;
@@ -232,7 +232,7 @@ hr{
 
 }
 
-.zentabcode{
+.btcztabcode{
     max-width: 200px;
 }
 
@@ -267,7 +267,7 @@ hr{
 /**--------------footer-css---------**/
 
 #footer{
-    background-color: #813100;
+    background-color: gray;
     padding: 63px 0px;
 }
 #footer .footerSocialWrap{
@@ -321,7 +321,7 @@ hr{
     }
 
     #art-area {
-        background-image: url("zen_paper_front_sm.png");
+        background-image: url("btcz_paper_front_sm.png");
         background-repeat: no-repeat;
         background-size: contain;
         width: 746px;
@@ -428,14 +428,14 @@ hr{
         margin: 0px auto 20px auto;
         text-align: center
     }
-    .zenTabsWrap{
+    .btczTabsWrap{
         padding: 0px;
     }
-    .zentabcode{
+    .btcztabcode{
        margin: 0 auto;
     }
 
-    .zenTabs > div {
+    .btczTabs > div {
         padding-top: 0px;
     }
 

@@ -164,7 +164,7 @@ class Brain extends Component {
                     <Row className="r2">
                         <Col md={3} className="max-width col-sm-offset-3">
                             <h1 style={{color:'green'}}>Public</h1>
-                            <h3>Zen Address</h3>
+                            <h3>Btcz Address</h3>
                             <div>
                                 <QRCode
                                     bgColor="#FFFFFF"
@@ -174,7 +174,7 @@ class Brain extends Component {
                                     value={this.state.addr}
                                 />
                             </div>
-                            <div className="zentabcode">
+                            <div className="btcztabcode">
                                 {this.state.addr}
                             </div>
                         </Col>
@@ -195,7 +195,7 @@ class Brain extends Component {
                                         value={this.state.wif}
                                     />
                                 </div>
-                                <div className="zentabcode">{this.state.wif}</div>
+                                <div className="btcztabcode">{this.state.wif}</div>
                             </div>
                             <p>{this.getZpriv()}</p>
                         </Col>
@@ -210,7 +210,7 @@ class Brain extends Component {
                             A brain wallet is generated from a secret passphrase you can choose, usually a long sequence of random words or a long sentence. The purpose of a brain wallet is to be able to only remember your passphrase with no need to write it down. At anytime, anywhere, you can regenerate your wallet here with your passphrase.
                         </p>
                         <p>
-                            <b>Warning: Choosing a strong passphrase is important to avoid brute force attempts to guess your passphrase and steal your ZCLs.</b>
+                            <b>Warning: Choosing a strong passphrase is important to avoid brute force attempts to guess your passphrase and steal your BitcoinZs.</b>
                         </p>
                     </Col>
                 </Row>

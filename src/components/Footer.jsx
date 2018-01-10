@@ -18,32 +18,32 @@ export default class Footer extends Component {
                     <Col xs={12} className="footerSocialWrap">
                         <ul className="footerSocial">
                             <li>
-                                <a href="http://zclassic.org/">
+                                <a href="http://btcz.rocks">
                                     <img src={website} alt="website"/>
                                 </a>
                             </li>
                             <li>
-                                <a href="https://github.com/z-classic/zclassic">
+                                <a href="https://github.com/bitcoinz-sites/paperwallet.btcz.rocks">
                                     <img src={github} alt="github"/>
                                 </a>
                             </li>
                             <li>
-                                <a href="https://twitter.com/ZclassicCoin">
+                                <a href="https://twitter.com/BitcoinZTeam">
                                     <img src={twitter} alt="twitter"/>
                                 </a>
                             </li>
                             <li>
-                                <a href="https://discord.gg/PmVX5jW">
+                                <a href="https://discordapp.com/invite/u3dkbFs">
                                     <img src={discord} alt="discord"/>
                                 </a>
                             </li>
                             <li>
-                                <a href="https://bitcointalk.org/index.php?topic=1671982.msg16789011#msg16789011">
+                                <a href="https://bitcointalk.org/index.php?topic=2166510.0">
                                     <img src={bitcointalk} alt="bitcointalk"/>
                                 </a>
                             </li>
                             <li>
-                                <a href="https://www.reddit.com/r/ZClassic/">
+                                <a href="https://www.reddit.com/r/BTCZCommunity">
                                     <img src={reddit} alt="reddit"/>
                                 </a>
                             </li>
@@ -56,10 +56,7 @@ export default class Footer extends Component {
                 </div>
                 <div>
                 <p className="footerCopyright">
-                    <a href="https://github.com/johandjoz/zclassicpaperwallet.com" target="_blank">JavaScript Client-Side ZCLASSIC Wallet Generator</a>
-                </p>
-                <p className="footerCopyright">
-                    Send me a memo @ zcH8yxWM5HHkrLKrt9HeTxWYPUqv1kzLYtX44BmkFSvWaixmfibB4U64P81RpDUUtGYuWRW1TPDb4uiB9nPtMfBrBcPv4w7
+                    <a href="https://github.com/bitcoinz-sites/paperwallet.btcz.rocks" target="_blank">JavaScript Client-Side BitcoinZ Wallet Generator</a>
                 </p>
                 </div>
             </Grid>
