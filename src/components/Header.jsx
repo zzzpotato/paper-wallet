@@ -7,15 +7,15 @@ export default class Header extends Component {
 
     render() {
         return (
-            <Navbar id="header" className="zenHeader" fluid={true}>
+            <Navbar id="header" className="btczHeader" fluid={true}>
                 <Navbar.Header>
                     <Navbar.Brand>
                         <img src={logoFull} alt="logo"/>
                     </Navbar.Brand>
                 </Navbar.Header>
                 <Nav pullRight>
-                    <NavItem href="https://github.com/johandjoz/zclassicpaperwallet.com" className="nav-item headerLeftOption">SOURCE</NavItem>
-                    <NavItem href="http://www.zclassicexplorer.com/" className="nav-item headerLeftOption">EXPLORER</NavItem>
+                    <NavItem href="https://github.com/bitcoinz-sites/paperwallet.btcz.rocks" className="nav-item headerLeftOption">Source</NavItem>
+                    <NavItem href="https://explorer.btcz.rocks" className="nav-item headerLeftOption">Explorer</NavItem>
                 </Nav>
             </Navbar>
         );

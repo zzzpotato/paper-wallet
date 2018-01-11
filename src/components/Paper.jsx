@@ -3,8 +3,8 @@ import { Row, Col, Button } from 'react-bootstrap';
 import { QRCode }           from 'react-qr-svg';
 import zclassicjs            from 'zclassicjs';
 
-import art1 from '../zen_paper_front.png';
-import art2 from '../zen_paper_back.png';
+import art1 from '../btcz_paper_front.png';
+import art2 from '../btcz_paper_back.png';
 
 class Paper extends Component {
     constructor(props) {
@@ -109,7 +109,7 @@ class Paper extends Component {
                 <Row className="r3">
                     <Col>
                         <p>
-                          A paper wallet is a piece of paper containing a public address and a private key. It allows you to store some ZCLs offline.
+                          A paper wallet is a piece of paper containing a public address and a private key. It allows you to store some BTCZs offline.
                         </p>
                         <p>
                           These kind of wallets are vulnerable to loss and theft. You should keep it safe like jewels or cash. Therefore it is recommended either to have a backup or to generate it only for a temporary use.
