@@ -1,6 +1,6 @@
 {
-  "name": "paperwallet.btcz.rocks",
-  "homepage": "https://paperwallet.btcz.rocks",
+  "name": "paper.btcz.rocks",
+  "homepage": "https://paper.btcz.rocks",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
