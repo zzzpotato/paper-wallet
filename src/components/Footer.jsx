@@ -18,12 +18,12 @@ export default class Footer extends Component {
                     <Col xs={12} className="footerSocialWrap">
                         <ul className="footerSocial">
                             <li>
-                                <a href="http://btcz.rocks">
+                                <a href="http://bzedge.org/">
                                     <img src={website} alt="website"/>
                                 </a>
                             </li>
                             <li>
-                                <a href="https://github.com/bitcoinz-sites/paper.btcz.rocks">
+                                <a href="https://github.com/BZEdge/paper-wallet">
                                     <img src={github} alt="github"/>
                                 </a>
                             </li>
@@ -56,7 +56,7 @@ export default class Footer extends Component {
                 </div>
                 <div>
                 <p className="footerCopyright">
-                    <a href="https://github.com/bitcoinz-sites/paper.btcz.rocks" target="_blank" rel="noopener noreferrer">JavaScript Client-Side BitcoinZ Wallet Generator</a>
+                    <a href="https://github.com/BZEdge/paper-wallet" target="_blank" rel="noopener noreferrer">JavaScript Client-Side BZEdge Wallet Generator</a>
                 </p>
                 <div className="text-center"><h3><span className="label label-danger text-center">Beta</span></h3></div>
                 <div className="text-center"><h4>We encourage you to test your paper wallet with small sums before sending larger amounts.</h4></div>

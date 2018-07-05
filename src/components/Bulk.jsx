@@ -184,7 +184,7 @@ class Bulk extends Component {
                 <Row className="r3">
                     <Col>
                         <p>
-                            Generating several BitcoinZ addresses at once can be useful for accepting BTCZ payments on your website. You can import these addresses into your database and use a different address for each payment you receive. You can easily add more addresses into your database by choosing the right start index to complete your list of addresses.
+                            Generating several BZEdge addresses at once can be useful for accepting BZE payments on your website. You can import these addresses into your database and use a different address for each payment you receive. You can easily add more addresses into your database by choosing the right start index to complete your list of addresses.
                         </p>
                     </Col>
                 </Row>
