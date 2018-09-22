@@ -18,7 +18,7 @@ export default class Footer extends Component {
                     <Col xs={12} className="footerSocialWrap">
                         <ul className="footerSocial">
                             <li>
-                                <a href="http://bzedge.org/">
+                                <a href="http://getbze.com/">
                                     <img src={website} alt="website"/>
                                 </a>
                             </li>
@@ -28,17 +28,17 @@ export default class Footer extends Component {
                                 </a>
                             </li>
                             <li>
-                                <a href="https://twitter.com/BitcoinZTeam">
+                                <a href="https://twitter.com/BZEdgeCoin">
                                     <img src={twitter} alt="twitter"/>
                                 </a>
                             </li>
                             <li>
-                                <a href="https://discordapp.com/invite/u3dkbFs">
+                                <a href="https://discord.gg/qMM56dk">
                                     <img src={discord} alt="discord"/>
                                 </a>
                             </li>
                             <li>
-                                <a href="https://bitcointalk.org/index.php?topic=2166510.0">
+                                <a href="https://bitcointalk.org/index.php?topic=5030236.0">
                                     <img src={bitcointalk} alt="bitcointalk"/>
                                 </a>
                             </li>
