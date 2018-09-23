@@ -164,7 +164,7 @@ a:hover{
     text-transform: capitalize;
     width: 118px;
     outline: none;
-    background-color: #000;
+    background-color: #06a1d7;
     color: #fff;
     font-weight: 500;
 }
@@ -175,7 +175,7 @@ a:hover{
 .btczTabsWrap .nav-pills > li.active > a,
 .btczTabsWrap .nav-pills > li.active > a:focus,
 .btczTabsWrap .nav-pills > li.active > a:hover {
-    background-color: #FFFFFF;
+    background-color: #92d3f1;
     color: #000;
 }
 
@@ -268,7 +268,7 @@ hr{
 /**--------------footer-css---------**/
 
 #footer{
-    background-color: gray;
+    background-color: #02021b;
     padding: 63px 0px;
 }
 #footer .footerSocialWrap{
