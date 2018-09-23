@@ -147,7 +147,7 @@ class Multisig extends Component {
                             <b>A Multi Signature wallet</b> is useful if the funds belong to more than one person. It's like a joint account.
                         </p>
                         <p>
-                            You can choose how many people has a key, and how many keys are needed to manage the funds.
+                            You can choose how many people have a key, and how many keys are needed to manage the funds.
                         </p>
                     </Col>
                 </Row>
