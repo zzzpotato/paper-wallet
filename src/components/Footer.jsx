@@ -43,7 +43,7 @@ export default class Footer extends Component {
                                 </a>
                             </li>
                             <li>
-                                <a href="https://www.reddit.com/r/BTCZCommunity">
+                                <a href="https://www.reddit.com/user/BZEdge">
                                     <img src={reddit} alt="reddit"/>
                                 </a>
                             </li>
