@@ -102,7 +102,7 @@ class Single extends Component {
                     <Row className="r2">
                         <Col md={3} className="max-width singleTabs col-sm-offset-3">
                             <h1 style={{color:'green'}}>Public</h1>
-                            <h3>BZE Address</h3>
+                            <h3>ZERC Address</h3>
                             <div>
                                 <QRCode
                                     bgColor="#FFFFFF"
@@ -145,25 +145,25 @@ class Single extends Component {
                 <Row className="r3">
                     <Col>
                         <p>
-                            <b>A BZEdge wallet</b> is as simple as a single pairing of a BZEdge address with its corresponding BZEdge private key. You can share your address to receive BZE payments, however your private key is what allows you to unlock and manage your funds, keep it safe.
+                            <b>A Zero Classic wallet</b> is as simple as a single pairing of a Zero Classic address with its corresponding Zero Classic private key. You can share your address to receive Zero Classic payments, however your private key is what allows you to unlock and manage your funds, keep it safe.
                         </p>
                         <p>
-                            <b>To safeguard this wallet</b> you must print or otherwise record the BZEdge address and private key. It is important to make a backup copy of the private key and store it in a safe location. This site does not have knowledge of your private key. If you leave/refresh the site or press the "Generate New Address" button then a new private key will be generated and the previously displayed private key will not be retrievable. Your BZEdge private key should be kept a secret. Whomever you share the private key with has access to spend all the BZE associated with that address. If you print your wallet then store it in a zip lock bag to keep it safe from water. Treat a paper wallet like cash.
+                            <b>To safeguard this wallet</b> you must print or otherwise record the Zero Classic address and private key. It is important to make a backup copy of the private key and store it in a safe location. This site does not have knowledge of your private key. If you leave/refresh the site or press the "Generate New Address" button then a new private key will be generated and the previously displayed private key will not be retrievable. Your Zero Classic private key should be kept a secret. Whomever you share the private key with has access to spend all the ZERC associated with that address. If you print your wallet then store it in a zip lock bag to keep it safe from water. Treat a paper wallet like cash.
                         </p>
                         <p>
-                            <b>Add funds</b> to this wallet by instructing others to send BZE to your BZE address.
+                            <b>Add funds</b> to this wallet by instructing others to send ZERC to your ZERC address.
                         </p>
                         <p>
-                            <b>Check your balance</b> by entering your BZE address on one of these explorers :
+                            <b>Check your balance</b> by entering your ZERC address on one of these explorers :
                         </p>
                         <ul style={{listStyleType: 'none'}}>
-                            <li><a href="https://explorer.bzedge.org" target="_blank" rel="noopener noreferrer">https://explorer.bzedge.org</a></li>
+                            <li><a href="https://insight.zeroclassic.org" target="_blank" rel="noopener noreferrer">https://insight.zeroclassic.org</a></li>
                         </ul>
                         <ul style={{listStyleType: 'none'}}>
-                            <li><a href="https://america.bzedge.org" target="_blank" rel="noopener noreferrer">https://america.bzedge.org</a></li>
+                            <li><a href="https://explorer.zeroclassic.org" target="_blank" rel="noopener noreferrer">https://explorer.zeroclassic.org</a></li>
                         </ul>
                         <p>
-                            <b>To spend your BZE</b> you can download the <a href='https://github.com/BZEdge/bzedge-wallet'>BZEdge Swing Wallet</a> and import your private key to the p2p client wallet.
+                            <b>To spend your ZERC</b> you can download the <a href='https://github.com/zeroclassic/SwingWallet'>Zero Classic Swing Wallet</a> and import your private key to the p2p client wallet.
                         </p>
                     </Col>
                 </Row>

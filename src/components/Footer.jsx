@@ -18,32 +18,32 @@ export default class Footer extends Component {
                     <Col xs={12} className="footerSocialWrap">
                         <ul className="footerSocial">
                             <li>
-                                <a href="http://getbze.com/">
+                                <a href="http://zeroclassic.org/">
                                     <img src={website} alt="website"/>
                                 </a>
                             </li>
                             <li>
-                                <a href="https://github.com/BZEdge/paper-wallet">
+                                <a href="https://github.com/zeroclassic/paper-wallet">
                                     <img src={github} alt="github"/>
                                 </a>
                             </li>
                             <li>
-                                <a href="https://twitter.com/BZEdgeCoin">
+                                <a href="/">
                                     <img src={twitter} alt="twitter"/>
                                 </a>
                             </li>
                             <li>
-                                <a href="https://discord.gg/qMM56dk">
+                                <a href="https://discord.gg/wSDrMJD">
                                     <img src={discord} alt="discord"/>
                                 </a>
                             </li>
                             <li>
-                                <a href="https://bitcointalk.org/index.php?topic=5030236.0">
+                                <a href="/">
                                     <img src={bitcointalk} alt="bitcointalk"/>
                                 </a>
                             </li>
                             <li>
-                                <a href="https://www.reddit.com/user/BZEdge">
+                                <a href="/">
                                     <img src={reddit} alt="reddit"/>
                                 </a>
                             </li>
@@ -56,7 +56,7 @@ export default class Footer extends Component {
                 </div>
                 <div>
                 <p className="footerCopyright">
-                    <a href="https://github.com/BZEdge/paper-wallet" target="_blank" rel="noopener noreferrer">JavaScript Client-Side BZEdge Wallet Generator</a>
+                    <a href="https://github.com/zeroclassic/paper-wallet" target="_blank" rel="noopener noreferrer">JavaScript Client-Side Zero Classic Wallet Generator</a>
                 </p>
                 <div className="text-center"><h3><span className="label label-info text-center">Beta</span></h3></div>
                 <div className="text-center"><h4>We encourage you to test your paper wallet with small sums before sending larger amounts.</h4></div>

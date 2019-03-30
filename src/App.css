@@ -8,7 +8,7 @@ html {
 }
 
 body {
-    background: black url("bg.jpg") center center repeat;
+    background: #410275;
     -webkit-background-size: auto;
     -moz-background-size: auto;
     -o-background-size: auto;
@@ -72,6 +72,7 @@ a:hover{
 .btczHeader .container-fluid{
    padding: 0px 63px;
    box-shadow: 0 2px 4px -1px rgba(0, 0, 0, 0.1), 0 4px 5px 0 rgba(0, 0, 0, 0.08), 0 1px 10px 0 rgba(0, 0, 0, 0.12);
+   background-color: #410275;
 }
 .btczHeader{
     margin-bottom: 0px;
@@ -92,7 +93,7 @@ a:hover{
 }
 .btczHeader .nav li a{
     font-weight: 400;
-    color: #1B2F59;
+    color: #fff;
 }
 .btczHeader .nav li a:hover{
     color: #1B2F59;
@@ -164,7 +165,7 @@ a:hover{
     text-transform: capitalize;
     width: 118px;
     outline: none;
-    background-color: #06a1d7;
+    background-color: #410275;
     color: #fff;
     font-weight: 500;
 }
@@ -175,7 +176,7 @@ a:hover{
 .btczTabsWrap .nav-pills > li.active > a,
 .btczTabsWrap .nav-pills > li.active > a:focus,
 .btczTabsWrap .nav-pills > li.active > a:hover {
-    background-color: #92d3f1;
+    background-color: #fff;
     color: #000;
 }
 
@@ -268,7 +269,7 @@ hr{
 /**--------------footer-css---------**/
 
 #footer{
-    background-color: #02021b;
+    background-color: #0A0027;
     padding: 63px 0px;
 }
 #footer .footerSocialWrap{

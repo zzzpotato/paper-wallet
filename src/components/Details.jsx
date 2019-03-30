@@ -191,10 +191,10 @@ class Details extends Component {
                 <Row className="r3">
                     <Col>
                         <p>
-                            Entering your private key here allows you to view your BZEdge Address and print your wallet if you wish.
+                            Entering your private key here allows you to view your Zero Classic Address and print your wallet if you wish.
                         </p>
                         <p>
-                            <b>Warning: make sure you are on paper.getbze.com !</b>
+                            <b>Warning: make sure you are on paper.zeroclassic.org!</b>
                         </p>
                         <p>
                             Your private key is a sensitive element. Whomever knows it can manage your funds. If you enter your private key into some website, double-check the URL to avoid phishing attempts.

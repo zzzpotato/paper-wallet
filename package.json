@@ -1,6 +1,6 @@
 {
-  "name": "paper.getbze.com",
-  "homepage": "https://paper.getbze.com",
+  "name": "paper.zeroclassic.org",
+  "homepage": "https://paper.zeroclassic.org",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -14,7 +14,7 @@
     "zclassicjs": "^1.0.0"
   },
   "devDependencies": {
-    "gh-pages": "^1.1.0",
+    "gh-pages": "^1.2.0",
     "gh-pages-deploy": "^0.4.2"
   },
   "scripts": {
